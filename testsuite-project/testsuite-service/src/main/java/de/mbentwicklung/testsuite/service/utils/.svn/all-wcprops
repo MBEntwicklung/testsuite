@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/testsuite/!svn/ver/73/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/utils
+END
+TestcaseUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/testsuite/!svn/ver/83/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/utils/TestcaseUtils.java
+END
+ProjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/testsuite/!svn/ver/48/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/utils/ProjectUtils.java
+END
+TestrunUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/testsuite/!svn/ver/80/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/utils/TestrunUtils.java
+END
+TestresultUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/testsuite/!svn/ver/83/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/utils/TestresultUtils.java
+END

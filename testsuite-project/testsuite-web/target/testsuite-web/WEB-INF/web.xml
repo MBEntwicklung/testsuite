@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	id="testsuite" version="2.5">
+
+	<display-name>testsuite</display-name>
+
+	<!-- Vaadin Mode -->
+	<context-param>
+		<description>Vaadin production mode</description>
+		<param-name>productionMode</param-name>
+		<param-value>false</param-value>
+	</context-param>
+
+	<!-- Spring context config -->
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>
+			classpath:context/testsuite-web-context.xml
+		 	classpath:context/testsuite-service-context.xml
+		</param-value>
+	</context-param>
+
+	
+	<!-- Spring Application Context -->
+	<listener>
+		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+	</listener>
+	
+	<!-- Spring Request Context Listener -->
+	<listener>
+  		<listener-class>
+    	  org.springframework.web.context.request.RequestContextListener
+  		</listener-class>
+	</listener>
+	
+	<!-- ApplicationServlet from Vaadin jar will respond to requests. -->
+	<servlet>
+		<servlet-name>Testsuite</servlet-name>
+
+		<!-- com.vaadin.terminal.gwt.server.ApplicationServlet -->
+		<servlet-class>
+			de.mbentwicklung.testsuite.web.spring.TestsuiteSpringApplicationServlet
+		</servlet-class>
+		<init-param>
+			<!-- Define our application class for servlet. -->
+			<param-name>application</param-name>
+			<param-value>de.mbentwicklung.testsuite.web.TestsuiteApplication</param-value>
+		</init-param>
+	</servlet>
+
+
+	<!-- Make the servlet respond to all requests. -->
+	<servlet-mapping>
+		<servlet-name>Testsuite</servlet-name>
+		<url-pattern>/*</url-pattern>
+	</servlet-mapping>
+</web-app>

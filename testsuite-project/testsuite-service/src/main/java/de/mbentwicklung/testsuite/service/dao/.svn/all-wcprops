@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/testsuite/!svn/ver/73/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/dao
+END
+TestcaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/testsuite/!svn/ver/77/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/dao/TestcaseDao.java
+END
+ProjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/testsuite/!svn/ver/73/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/dao/ProjectDao.java
+END
+TestrunDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/testsuite/!svn/ver/77/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/dao/TestrunDao.java
+END
+TestresultDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/testsuite/!svn/ver/79/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/dao/TestresultDao.java
+END

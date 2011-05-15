@@ -1,0 +1,31 @@
+9
+
+dir
+74
+http://192.168.2.151/svn/testsuite/testsuite-project/testsuite-web/src/main/java/de/mbentwicklung
+http://192.168.2.151/svn/testsuite
+
+
+
+2011-04-17T14:08:02.235439Z
+73
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2f5e9114-13d6-4256-98a2-eb6992c8c062
+
+testsuite
+dir
+

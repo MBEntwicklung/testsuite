@@ -1,0 +1,23 @@
+@import url(../reindeer/styles.css);
+
+@CHARSET "UTF-8";
+
+.v-panel {
+	boarder: 0px;
+}
+
+.v-progressindicator-indicator {
+	background: none repeat scroll 0 0 green;
+}
+
+.v-panel-caption {
+	padding-top: 10px;
+}
+
+.v-button {
+	margin: 5px;
+}
+
+.v-table-cell-wrapper {
+	white-space: normal;
+}

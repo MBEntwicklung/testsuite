@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/testsuite/!svn/ver/41/testsuite-project/testsuite-service/.settings
+END
+org.eclipse.wst.common.project.facet.core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/testsuite/!svn/ver/41/testsuite-project/testsuite-service/.settings/org.eclipse.wst.common.project.facet.core.xml
+END
+org.eclipse.wst.common.component
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/testsuite/!svn/ver/41/testsuite-project/testsuite-service/.settings/org.eclipse.wst.common.component
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/.settings/org.eclipse.jdt.core.prefs
+END
+org.maven.ide.eclipse.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/testsuite/!svn/ver/30/testsuite-project/testsuite-service/.settings/org.maven.ide.eclipse.prefs
+END

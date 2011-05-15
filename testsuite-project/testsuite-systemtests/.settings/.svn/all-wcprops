@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/testsuite/!svn/ver/55/testsuite-project/testsuite-systemtests/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/testsuite/!svn/ver/55/testsuite-project/testsuite-systemtests/.settings/org.eclipse.jdt.core.prefs
+END
+org.maven.ide.eclipse.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/testsuite/!svn/ver/55/testsuite-project/testsuite-systemtests/.settings/org.maven.ide.eclipse.prefs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/testsuite/!svn/ver/74/testsuite-project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/testsuite/!svn/ver/70/testsuite-project/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/testsuite/!svn/ver/41/testsuite-project/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/testsuite/!svn/ver/43/testsuite-project/.classpath
+END

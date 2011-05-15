@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/antlr-2.7.6.jar
+END
+hibernate-jpa-2.0-api-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar
+END
+javassist-3.12.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/javassist-3.12.0.GA.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/dom4j-1.6.1.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/commons-collections-3.1.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/jta-1.1.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/slf4j-api-1.6.1.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/testsuite/!svn/ver/31/testsuite-project/testsuite-service/src/lib/hibernate3.jar
+END

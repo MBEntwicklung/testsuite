@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/testsuite/!svn/ver/73/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service
+END
+DataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/testsuite/!svn/ver/83/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/DataProvider.java
+END
+SQLDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/testsuite/!svn/ver/83/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/SQLDataProvider.java
+END
+StaticDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/testsuite/!svn/ver/83/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/StaticDataProvider.java
+END
+JackrabbitDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/testsuite/!svn/ver/83/testsuite-project/testsuite-service/src/main/java/de/mbentwicklung/testsuite/service/JackrabbitDataProvider.java
+END

@@ -1,0 +1,81 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>testsuite-project</artifactId>
+		<groupId>de.mbentwicklung.testsuite</groupId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<groupId>de.mbentwicklung.testsuite</groupId>
+	<artifactId>testsuite-systemtests</artifactId>
+	<packaging>pom</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+
+<!-- Projekt Informationen -->
+	<name>Testsuite Systemtest Modul</name>
+	<description>
+		Die Testsuite Anwendung hat das Ziel, den Testprozess in der Software Entwicklung zu vereinfachen.
+		Eine Anwendung die das Testen vereinfacht, muss natürlich selbst auch getestet werden. Für solche
+		Systemtests existiert dieses Maven Modul.
+	</description>
+	<url>http://testsuite.mb-entwicklung.de</url>
+	<inceptionYear>2011</inceptionYear>
+	<organization>
+		<name>MBEntwicklung</name>
+		<url>http://www.mb-entwicklung.de</url>
+	</organization>
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<comments>
+				Copyright ${project.inceptionYear} ${project.organization.name}. 
+				Licensed under the Apache License, Version 2.0 (the "License");
+				you may not use this file except in compliance with the License.
+				You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+				Unless required by applicable law or agreed to in writing, software
+				distributed under the License is distributed on an "AS IS" BASIS,
+				WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+				See the License for the specific language governing permissions and
+				limitations under the License.
+			</comments>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<id>1</id>
+			<email>marc.bellmann@mb-entwicklung.de</email>
+			<name>Marc Bellmann</name>
+			<organization>MBEntwicklung</organization>
+			<organizationUrl>http://www.mb-entwicklung.de</organizationUrl>
+			<url>http://www.marc-bellmann.de</url>
+		</developer>
+	</developers>
+	
+	<dependencies>
+		<dependency>
+			<artifactId>testsuite-service</artifactId>
+			<groupId>${project.groupId}</groupId>
+			<version>${project.version}</version>
+		</dependency>
+		
+		
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>jcl-over-slf4j</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+		</dependency>
+	</dependencies>
+</project>

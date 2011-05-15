@@ -1,0 +1,71 @@
+9
+
+dir
+74
+http://192.168.2.151/svn/testsuite/testsuite-project/testsuite-service/src/main/resources
+http://192.168.2.151/svn/testsuite
+
+
+
+2011-04-17T14:08:02.235439Z
+73
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2f5e9114-13d6-4256-98a2-eb6992c8c062
+
+META-INF
+dir
+
+context
+dir
+
+de
+dir
+
+hibernate.cfg.xml
+file
+
+
+
+
+2011-04-01T16:55:30.000000Z
+efdcaa9488b0aec9748b098e5b814e5f
+2011-04-07T21:34:11.634147Z
+71
+
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1305
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 01.04.2011 18:11:09 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+	<class name="de.mbentwicklung.testsuite.service.entity.Testrun"
+		table="TESTRUN">
+		<id name="id" type="java.lang.Long" access="field">
+			<column name="ID" />
+			<generator class="increment" />
+		</id>
+		<property name="projectId" type="java.lang.Long" access="field">
+			<column name="PROJECTID" />
+		</property>
+		<property name="date" type="long" access="field">
+			<column name="DATE" />
+		</property>
+		<property name="comment" type="java.lang.String" access="field">
+			<column name="COMMENT" />
+		</property>
+		<property name="author" type="java.lang.String" access="field">
+			<column name="AUTHOR" />
+		</property>
+	</class>
+</hibernate-mapping>

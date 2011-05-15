@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/testsuite/!svn/ver/73/testsuite-project/testsuite-service/src/main/resources/de/mbentwicklung/testsuite/service/hbm
+END
+Testcase.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/testsuite/!svn/ver/73/testsuite-project/testsuite-service/src/main/resources/de/mbentwicklung/testsuite/service/hbm/Testcase.hbm.xml
+END
+Project.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/testsuite/!svn/ver/73/testsuite-project/testsuite-service/src/main/resources/de/mbentwicklung/testsuite/service/hbm/Project.hbm.xml
+END
+Testrun.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/testsuite/!svn/ver/77/testsuite-project/testsuite-service/src/main/resources/de/mbentwicklung/testsuite/service/hbm/Testrun.hbm.xml
+END
+Testresult.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/testsuite/!svn/ver/79/testsuite-project/testsuite-service/src/main/resources/de/mbentwicklung/testsuite/service/hbm/Testresult.hbm.xml
+END
